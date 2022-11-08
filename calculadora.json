@@ -1,7 +1,9 @@
 [
     {
         "Titulo" : "Calculadora",
-        "Version" : 2.1
-
+        "Version" : "v2.1",
+        "Creadores": "Luis y Adriana",
+        "Profesores": "Eric Mena y Emanuel Arroyo",
+        "Funcionalidades": ["Suma","restar","dividir","Multiplicacion"]
     }
 ]
