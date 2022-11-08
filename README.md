@@ -1,4 +1,5 @@
 # EJEMPLO-GIT
 
 ##PARTICIPANTES
-- Luis Dick - Fundacion Formar 
+- Luis Dick - Fundación Formar 
+- Adriana Guitian - Fundación Formar
